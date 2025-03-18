@@ -1,7 +1,9 @@
 # orangePi5Plus
 
 ## Install OS
-Download image form [Orange Pi website](http://www.orangepi.org/orangepiwiki/index.php/Images_Download). Ex: Download [```OrangePi5Plus_1.2.0_ubuntu_focal_desktop_xfce_linux5.10.160```](https://drive.google.com/drive/folders/1wOmKUla8CwUPTfxvfCGutj8lbMZFtFCm)
+Download image form [Orange Pi website](http://www.orangepi.org/orangepiwiki/index.php/Images_Download). 
+
+Ex: Download [```OrangePi5Plus_1.2.0_ubuntu_focal_desktop_xfce_linux5.10.160```](https://drive.google.com/drive/folders/1wOmKUla8CwUPTfxvfCGutj8lbMZFtFCm)
 
 Uncompress and boot it into SDCard
 
